@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    overflow-x: scroll;
+   }
+
+   h3 {
+       margin-top: 20px;
+       font-size: 2em;
+       font-family: 'Spectral', serif;
+   }
+
+   #description {
+       margin: 15px;
+       font-size: 1.3em;
+       font-family: 'Spectral', serif;
+   }
+
+   #chart {
+       margin: 20px;
+       overflow-x: scroll;
+   }
+
+   .rect {
+       border: 2px solid black;
+   }
+
+   
